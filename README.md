@@ -65,29 +65,44 @@ To get started with the project, follow these steps:
 
 <table>
   <tr>
-     <td><img src="(https://github.com/rahulgorai123/mern-ecommerce-app/assets/106511080/950845d8-0819-446d-9b7b-3163632e40f8)
-" alt="" /></td>
-    <td><img src="(https://github.com/rahulgorai123/mern-ecommerce-app/assets/106511080/a513a482-3bcb-42ee-9208-5fa23fb07ddb)
-" alt="" /></td>
+     <td><img src="https://github.com/rahulgorai123/mern-ecommerce-app/assets/106511080/950845d8-0819-446d-9b7b-3163632e40f8"
+alt="" /></td>
+    <td><img src="https://github.com/rahulgorai123/mern-ecommerce-app/assets/106511080/a513a482-3bcb-42ee-9208-5fa23fb07ddb"
+alt="" /></td>
   </tr>
   <tr>
-    <td><img src=" ![Screenshot 2023-08-04 122905](https://github.com/rahulgorai123/mern-ecommerce-app/assets/106511080/434b48aa-12e3-4c16-9594-f0ec24b8df55)"
-alt="screenshot" /></td>
-    <td><img src="https://github.com/prakhar00007/BrightBytes/assets/92537028/3f6f93d7-c271-4649-b51d-1e49e2b5c7e0" alt="screenshot" /></td>
+    <td><img src=" https://github.com/rahulgorai123/mern-ecommerce-app/assets/106511080/434b48aa-12e3-4c16-9594-f0ec24b8df55"
+alt="" /></td>
+    <td><img src="https://github.com/rahulgorai123/mern-ecommerce-app/assets/106511080/104ae9d2-9571-4fc9-9331-13f081c7e73e
+" alt="" /></td>
   </tr>
     <tr>
-    <td><img src="https://github.com/prakhar00007/BrightBytes/assets/92537028/7d397e38-99cd-458b-a108-7386991b1422" alt="screenshot" /></td>
-    <td><img src="https://github.com/prakhar00007/BrightBytes/assets/92537028/c68c454b-7c6e-4976-b3af-aac44345ddf0" alt="screenshot" /></td>
+ <td><img src="https://github.com/rahulgorai123/mern-ecommerce-app/assets/106511080/a4760443-c31a-44bf-a22b-2b9667b73a0f" alt="" /></td>
+<td><img src="https://github.com/rahulgorai123/mern-ecommerce-app/assets/106511080/6767ec47-f057-4fa7-a98c-2239f6091228" alt="" /></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/prakhar00007/BrightBytes/assets/92537028/81529833-1e48-43df-8d18-ee37a9510fd4" alt="screenshot" /></td>
-    <td><img src="https://github.com/prakhar00007/BrightBytes/assets/92537028/c6361ce3-bbea-4038-8077-bf36f65ef6af" alt="screenshot" /></td>
+    <td><img src="https://github.com/rahulgorai123/mern-ecommerce-app/assets/106511080/c44b967c-156b-40b7-8cd0-f9873f168fbd" alt="" /></td>
+    <td><img src="
+         https://github.com/rahulgorai123/mern-ecommerce-app/assets/106511080/610be005-91d9-40c8-8e51-760305f398af" alt="" /></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/prakhar00007/BrightBytes/assets/92537028/691b7b91-eb70-49e2-abc9-237c9135b653" alt="screenshot" /></td>
-    <td><img src="https://github.com/prakhar00007/BrightBytes/assets/92537028/120ece48-a4ee-4f96-a321-f1e596cf39b0" alt="screenshot" /></td>
+
+    <td><img src="https://github.com/rahulgorai123/mern-ecommerce-app/assets/106511080/46c54f24-fb0b-4499-82d6-7c18d3822a32" alt="" /></td>
+    <td><img src="https://github.com/rahulgorai123/mern-ecommerce-app/assets/106511080/0574f418-39e5-4293-aa08-31e116465021" alt="" /></td>
   </tr>
-   
+  <tr>
+
+
+    <td><img src="https://github.com/rahulgorai123/mern-ecommerce-app/assets/106511080/6704a563-2762-4700-bc49-e727faad992c" alt="" /></td>
+    <td><img src="https://github.com/rahulgorai123/mern-ecommerce-app/assets/106511080/cad4fe14-7421-4a03-aaa6-1c24574a18c4" alt="" /></td>
+  </tr>
+
+  <tr>
+<td><img src="https://github.com/rahulgorai123/mern-ecommerce-app/assets/106511080/817345c3-a969-4e7e-be94-9835968b3c03" alt="" /></td>
+    <td><img src="https://github.com/rahulgorai123/mern-ecommerce-app/assets/106511080/7d23989d-ca47-4bb4-bc42-25c754710657" alt="" /></td>
+  </tr>
+  
+
 </table>
 
 
