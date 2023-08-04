@@ -65,10 +65,10 @@ To get started with the project, follow these steps:
 
 <table>
   <tr>
-     <td><img src=![Screenshot 2023-08-04 122733](https://github.com/rahulgorai123/mern-ecommerce-app/assets/106511080/950845d8-0819-446d-9b7b-3163632e40f8)
-"" alt="" /></td>
-    <td><img src="![Screenshot 2023-08-04 122838](https://github.com/rahulgorai123/mern-ecommerce-app/assets/106511080/a513a482-3bcb-42ee-9208-5fa23fb07ddb)
-" alt="screenshot" /></td>
+     <td><img src="(https://github.com/rahulgorai123/mern-ecommerce-app/assets/106511080/950845d8-0819-446d-9b7b-3163632e40f8)
+" alt="" /></td>
+    <td><img src="(https://github.com/rahulgorai123/mern-ecommerce-app/assets/106511080/a513a482-3bcb-42ee-9208-5fa23fb07ddb)
+" alt="" /></td>
   </tr>
   <tr>
     <td><img src=" ![Screenshot 2023-08-04 122905](https://github.com/rahulgorai123/mern-ecommerce-app/assets/106511080/434b48aa-12e3-4c16-9594-f0ec24b8df55)"
